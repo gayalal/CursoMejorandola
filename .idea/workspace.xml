@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="18" selection-start="678" selection-end="678" vertical-scroll-proportion="0.9026549" vertical-offset="0" max-vertical-offset="952">
+            <state line="73" column="22" selection-start="2425" selection-end="2425" vertical-scroll-proportion="0.49658313" vertical-offset="1023" max-vertical-offset="1564">
               <folding />
             </state>
           </provider>
@@ -47,9 +47,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="871" />
-    <option name="y" value="104" />
-    <option name="width" value="609" />
+    <option name="x" value="873" />
+    <option name="y" value="134" />
+    <option name="width" value="593" />
     <option name="height" value="661" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -148,7 +148,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="871" y="104" width="609" height="661" extended-state="0" />
+    <frame x="873" y="134" width="593" height="661" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -184,7 +184,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="18" selection-start="678" selection-end="678" vertical-scroll-proportion="0.9026549" vertical-offset="0" max-vertical-offset="952">
+        <state line="73" column="22" selection-start="2425" selection-end="2425" vertical-scroll-proportion="0.49658313" vertical-offset="1023" max-vertical-offset="1564">
           <folding />
         </state>
       </provider>
